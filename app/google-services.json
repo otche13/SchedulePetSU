@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231287023131",
+    "project_id": "schedulepetsu",
+    "storage_bucket": "schedulepetsu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231287023131:android:f9f085797f9cab69083abe",
+        "android_client_info": {
+          "package_name": "ru.otche13.schedulepetsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231287023131-d1fbv2sucu0mj991lpcffpj78rf2b0tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3B-bfbiOe2-DC3_h9exXX2otFlENE8Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231287023131-d1fbv2sucu0mj991lpcffpj78rf2b0tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
